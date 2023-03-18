@@ -48,7 +48,7 @@ async function copyContent() {
   }
 }
 
-body.addEventListener("click", () => {
+body.addEventListener("click", () =
   madeBy(), handleText();
 });
 input.addEventListener("change", handleFile);

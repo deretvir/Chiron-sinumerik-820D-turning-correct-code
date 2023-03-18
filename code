@@ -1,8 +1,0 @@
-SPOS(90)
-
-X-1500
-TURNVL //L
-TURNVR//R
-
-G0 x-1500 Y500
-
